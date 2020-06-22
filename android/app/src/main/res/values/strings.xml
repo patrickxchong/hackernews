@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">nuxt-hn</string>
+    <string name="title_activity_main">nuxt-hn</string>
+    <string name="package_name">com.hackernews.nuxt</string>
+    <string name="custom_url_scheme">com.hackernews.nuxt</string>
+</resources>

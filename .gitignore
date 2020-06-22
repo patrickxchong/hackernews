@@ -12,3 +12,5 @@ package-lock.json
 static/manifest*.json
 static/sw.js
 static/workbox-sw*.js*
+
+android/app/src/main/assets/public 

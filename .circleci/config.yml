@@ -24,7 +24,6 @@ jobs:
           paths:
             - node_modules
       - run: yarn build-spa
-      - run: npx cap add android
       - run: npx cap sync
       - restore_cache:
           key: jars-{{ checksum "android/build.gradle" }}-{{ checksum  "android/build.gradle" }}

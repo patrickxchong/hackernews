@@ -1,0 +1,13 @@
+{
+  "appId": "com.hackernews.nuxt",
+  "appName": "nuxt-hn",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
